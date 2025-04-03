@@ -1,10 +1,3 @@
-This tutorial will cover how to set up and use the UI library, along with all the key functionalities demonstrated in the code.
-
-```markdown
-# UI Library Tutorial
-
-## Overview
-
 This tutorial will guide you through using the **Compact UI Library** for creating a simple user interface with various interactive elements like toggles, sliders, selections, and dropdowns. It will show you how to add elements, customize their behaviors, and handle callbacks effectively.
 
 ### Prerequisites
