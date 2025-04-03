@@ -4,7 +4,7 @@ This tutorial will guide you through using the **Compact UI Library** for creati
 Before you start, you need the **Compact UI Library**. You can load it into your script with the following line:
 
 ```lua
-local UI = loadstring(game:HttpGet("https://raw.githubusercontent.com/cueshut/saves/main/compact"))()
+local UI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pezokee/UI-Libraries/refs/heads/main/Source"))()
 ```
 
 ## Getting Started
