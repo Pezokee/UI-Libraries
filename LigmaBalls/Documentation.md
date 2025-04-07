@@ -1,3 +1,4 @@
+```lua
 -- Load the Paradox UI library
 local paradox = loadstring(game:HttpGet("https://raw.githubusercontent.com/paradoxroblox/paradox/refs/heads/discord.gg/paradoxroblox/library"))()
 
