@@ -1,6 +1,6 @@
 ```lua
 -- Load the Paradox UI library
-local paradox = loadstring(game:HttpGet("https://raw.githubusercontent.com/paradoxroblox/paradox/refs/heads/discord.gg/paradoxroblox/library"))()
+local paradox = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pezokee/UI-Libraries/refs/heads/main/LigmaBalls/Library"))()
 
 -- Create the main window
 local window = paradox:window({
