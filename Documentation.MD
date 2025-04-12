@@ -1,7 +1,3 @@
-Here’s your complete `documentation.md` file, all in one, fully formatted and clear:
-
----
-
 ```markdown
 # 📘 Informant.WTF Script Documentation
 
